@@ -1,16 +1,36 @@
 div {
     font-weight: bold;
     font-family: "Monaco", monospace;
-}
-.webpage-title {
-    background-color:#34eb83;
     text-align: center;
-    font-size: 24px;
 }
+
+    .webpage-title {
+        background-color:#34eb83;
+        font-size: 24px;
+        color: #e83861;
+    }
+
+    .recipe-title {
+        color: #d60d38;
+        background-color: #9cffb6;
+    }
+
+    .recipe-links {
+        background-color: #34eb83;
+    }
+
+    .center {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 25%;
+    }
+
+
 
 
 img {
     height: auto;
-    width: 300px
-    
+     width: 300px
 }
+
