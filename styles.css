@@ -1,3 +1,4 @@
+
 div {
     font-weight: bold;
     font-family: "Monaco", monospace;
@@ -6,6 +7,9 @@ div {
 
     .webpage-title {
         background-color:#34eb83;
+        padding: 20px;
+        border: 5px solid #e83861;
+        box-sizing: border-box;
         font-size: 24px;
         color: #e83861;
     }
@@ -13,10 +17,16 @@ div {
     .recipe-title {
         color: #d60d38;
         background-color: #9cffb6;
+        margin-left: 500px;
+        margin-right:500px;
+        margin-top: 20px;
+        margin-bottom: 20px;
+        box-sizing: border-box;
     }
 
     .recipe-links {
         background-color: #34eb83;
+        padding: 10px;
     }
 
     .center {
